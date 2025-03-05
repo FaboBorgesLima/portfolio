@@ -55,7 +55,7 @@ import ContactCard from '@/components/ContactCard.vue';
                         transition duration-300"></div>
               <div class="relative h-64 w-64 rounded-full overflow-hidden border-4 border-white dark:border-slate-800 
                         shadow-xl transform group-hover:rotate-2 transition duration-300">
-                <div class="h-full w-full bg-gray-200 dark:bg-slate-700 animate-pulse"></div>
+                <img src="../assets/me.jpeg">
               </div>
             </div>
           </div>
