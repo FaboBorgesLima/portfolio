@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { HomeIcon } from '@heroicons/vue/24/solid';
+import { HomeIcon } from '@heroicons/vue/24/outline';
 
 const links = [
   { name: 'Home', path: '/', icon: HomeIcon },
